@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/persistentai/.github/main/profile/torii-logo.png" alt="PersistentAI" width="120">
 </p>
 
-<h1 align="center">PERSISTENT[AI]</h1>
+<h1 align="center">PERSISTENT<b>[AI]</b></h1>
 
 <p align="center">
   <strong>The AI Workforce Platform</strong><br>
